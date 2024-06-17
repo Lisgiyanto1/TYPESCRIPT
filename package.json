@@ -1,0 +1,17 @@
+{
+  "name": "belajar_typescript",
+  "version": "1.0.0",
+  "description": "Belajar Typescript Dasar",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    }
+  },
+  "author": "Lisgiyanto Sofiyan",
+  "license": "ISC",
+  "type": "module"
+}
