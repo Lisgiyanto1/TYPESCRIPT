@@ -6,8 +6,8 @@ describe('Static', () => {
         */
         /*  static n: string = 'AAn';
          static age: number = 2; */
-        /* static method */
 
+        /* static method */
         static jumAku(...j: number[]): number {
             let a = 0;
             for (let value of j) {

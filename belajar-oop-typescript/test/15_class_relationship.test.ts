@@ -1,8 +1,8 @@
 describe('Class Relationship', () => {
     class Orang {
-         
+
         constructor(public name: string) {
-            
+
         }
     }
     class Karyawan {
